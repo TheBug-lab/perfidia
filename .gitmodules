@@ -1,3 +1,9 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/TheBug-lab/perfidia-webapp/
+[submodule "backend"]
+	path = backend
+	url = git@github.com:TheBug-lab/perfidia-backend.git
+[submodule "webgame"]
+	path = webgame
+	url = git@github.com:TheBug-lab/perfidia-webgame.git
